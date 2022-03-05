@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://lidijaal.github.io/NFTPreviewCardComponent/)
+- Live Site URL: https://lidijaal.github.io/NFTPreviewCardComponent/ (https://lidijaal.github.io/NFTPreviewCardComponent/)
 
 
 ## My process
